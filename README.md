@@ -24,6 +24,8 @@ Head over to [test/README.md](https://github.com/webrtc/samples/blob/gh-pages/te
 
 [Basic getUserMedia demo](https://webrtc.github.io/samples/src/content/getusermedia/gum/)
 
+[Basic ScreenCapture demo](https://webrtc.github.io/samples/src/content/getusermedia/screen-capture/)
+
 [getUserMedia + canvas](https://webrtc.github.io/samples/src/content/getusermedia/canvas/)
 
 [getUserMedia + canvas + CSS Filters](https://webrtc.github.io/samples/src/content/getusermedia/filter/)
